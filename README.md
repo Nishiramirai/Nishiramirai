@@ -2,7 +2,8 @@
 
 🚀 **Student at School 21 (42 Network)** | 🇷🇺 Based in Russia  
 💻 Passionate about software engineering and computer science  
-🌱 Currently learning **C, C++, and Java**  
+🌱 Currently learning **C, C++, and Java**<br>
+📚 Favourite learning resources: **Harvard CS50, Javarush, books, projects from School 21**
 
 ### 🔧 Technologies & Skills
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -25,6 +26,9 @@
 - [stringPlus](https://github.com/Nishiramirai/s21_stringPlus) - Implementation of C standard library for strings
 - [decimal](https://github.com/Nishiramirai/s21_decimal) - Implementation of decimal data type in C
 - [matrix](https://github.com/Nishiramirai/s21_matrix) - C Library for working with matrices
+
+### 🏆 Coding Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nishiracore?theme=dark&font=baloo)](https://leetcode.com/your_leetcode_username/)
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
