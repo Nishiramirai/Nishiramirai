@@ -23,7 +23,7 @@
 
 ### 🏫 School 21 Projects
 - [simpleBashUtils](https://github.com/Nishiramirai/s21_SimpleBashUtils) - Implementation of cat and grep utilities from bash
-- [stringPlus](https://github.com/Nishiramirai/s21_stringPlus) - Implementation of C standard library for strings
+- [stringPlus](https://github.com/Nishiramirai/s21_stringPlus) - Implementation of C standard library for strings with some additions
 - [decimal](https://github.com/Nishiramirai/s21_decimal) - Implementation of decimal data type in C
 - [matrix](https://github.com/Nishiramirai/s21_matrix) - C Library for working with matrices
 
