@@ -28,7 +28,7 @@
 - [matrix](https://github.com/Nishiramirai/s21_matrix) - C Library for working with matrices
 
 ### 🏆 Coding Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nishiracore?theme=dark&font=baloo)](https://leetcode.com/your_leetcode_username/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nishiracore?theme=dark&font=baloo)](https://leetcode.com/nishiracore/)
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
