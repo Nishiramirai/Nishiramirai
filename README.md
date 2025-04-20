@@ -21,7 +21,10 @@
 - **`Low-Level`** [Code: The Hidden Language by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)    
 
 ### 🏫 School 21 Projects
-
+- [simpleBashUtils](https://github.com/Nishiramirai/s21_SimpleBashUtils) - Implementation of cat and grep utilities from bash
+- [stringPlus](https://github.com/Nishiramirai/s21_stringPlus) - Implementation of C standard library for strings
+- [decimal](https://github.com/Nishiramirai/s21_decimal) - Implementation of decimal data type in C
+- [matrix](https://github.com/Nishiramirai/s21_matrix) - C Library for working with matrices
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
