@@ -3,7 +3,7 @@
 🚀 **Student at School 21 (42 Network)** | 🇷🇺 Based in Russia  
 💻 Passionate about software engineering and computer science  
 🌱 Currently learning **C, C++, and Java**<br>
-📚 Favourite learning resources: **Harvard CS50, Javarush, books, projects from School 21**
+📚 Favourite learning resources: **Harvard CS50, books, and building projects**
 
 ### 🔧 Technologies & Skills
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -21,7 +21,7 @@
 - **`Computer Science`** [How Computers Really Work by Matthew Justice](https://nostarch.com/how-computers-really-work)
 - **`Low-Level`** [Code: The Hidden Language by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)    
 
-### 🏫 School 21 Projects
+### 🏫 C Projects
 - [simpleBashUtils](https://github.com/Nishiramirai/s21_SimpleBashUtils) - Implementation of cat and grep utilities from bash
 - [stringPlus](https://github.com/Nishiramirai/s21_stringPlus) - Implementation of C standard library for strings with some additions
 - [decimal](https://github.com/Nishiramirai/s21_decimal) - Implementation of decimal data type in C
@@ -29,6 +29,7 @@
 
 ### 🏆 Coding Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nishiracore?theme=dark&font=baloo)](https://leetcode.com/nishiracore/)
+![Codewars](https://github.r2v.ch/codewars?user=Shikamirai&stroke=white)
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
