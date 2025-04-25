@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel 
 
-🚀 **Student at School 21 (42 Network)** | 🇷🇺 Based in Russia  
+🚀 **Computer Science student at School 21 (42 Network)** | 🇷🇺 Based in Russia  
 💻 Passionate about software engineering and computer science  
 🌱 Currently learning **C, C++, and Java**<br>
 📚 Favourite learning resources: **Harvard CS50, books, and building projects**
