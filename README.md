@@ -3,7 +3,8 @@
 🚀 **Computer Science student at School 21 (42 Network)** | 🇷🇺 Based in Russia  
 💻 Passionate about software engineering and computer science  
 🌱 Currently learning **C, C++, and Java**<br>
-📚 Favourite learning resources: **Harvard CS50, books, and building projects**
+📚 Favourite learning resources: **Harvard CS50, books, and building projects**<br>
+💻 My setup: PC on Fedora KDE(amazing distro, highly recommended), MacBook Air M1 on Asahi Linux (same Fedora, but on Apple M1 chip)
 
 ### 🔧 Technologies & Skills
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
