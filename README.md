@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel 
 
-🚀 **Computer Science student at HSE andSchool 21 (42 Network)** | 🇷🇺 Based in Russia  
+🚀 **Computer Science student at HSE and School 21 (42 Network)** | 🇷🇺 Based in Russia  
 💻 Passionate about software engineering and computer science  
 
 ### 🔧 Technologies & Skills
