@@ -14,9 +14,5 @@ Interested in backend development, with a focus on Go.
 
 
 
-
-### 🏆 Coding Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nishiracore?theme=dark&font=baloo)](https://leetcode.com/nishiracore/)
-
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
