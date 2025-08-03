@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pavel 
 
-**Student of Software Engineering and Computer Science** at HSE University and School 21 (42 Network).
+Studying Software Engineering and Computer Science at HSE University and School 21 (42 Network).
 
-Interested in **backend development**, with a focus on **Go**.
+Interested in backend development, with a focus on Go.
 
 ### 🔧 Technologies & Skills
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
