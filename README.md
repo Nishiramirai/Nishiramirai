@@ -2,7 +2,7 @@
 
 Studying Software Engineering and Computer Science at HSE University and School 21 (42 Network).
 
-Interested in backend development, primarily on on Go.
+Interested in backend development, primarily on Go.
 
 ### 🔧 Technologies & Skills
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
