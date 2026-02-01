@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel 
 
-Studying Software Engineering and Computer Science at School 21 (42 Network).
+Studying Software Engineering and Computer Science at HSE Univesity and School 21 (42 Network).
 
 Interested in backend development, primarily on Go.
 
