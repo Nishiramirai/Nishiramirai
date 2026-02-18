@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Pavel 
 
-Studying Software Engineering and Computer Science at HSE Univesity and School 21 (42 Network).
-
-Interested in backend development, primarily on Go.
+🎓 Software Engineering student at HSE University and School 21 (42 Network).<br>
+🚀 Backend Developer. Currently building a microservices-based backend for a [dating app](https://github.com/y-crave).<br>
+⚡️ Leveling up my Go skills at Wildberries Technoschool.<br>
+🛠️ Focused on Microservices and scalable systems.<br>
 
 
 # 💻 Tech Stack:
@@ -17,4 +18,4 @@ Interested in backend development, primarily on Go.
 
 
 ### 📫 How to reach me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nishiramirai)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/llfflltt)
