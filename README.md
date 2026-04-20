@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel 
 
-🎓 Software Engineering student at HSE University and School 21 (42 Network).<br>
+🎓 Software Engineering student.<br>
 🚀 Backend Developer. Currently building a microservices-based backend for a [dating app](https://github.com/y-crave).<br>
 ⚡️ Leveling up my Go skills at Wildberries Technoschool.<br>
 🛠️ Focused on Microservices and scalable systems.<br>
