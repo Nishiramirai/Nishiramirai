@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Pavel 
 
 🎓 Software Engineering student.<br>
-🚀 Backend Developer. Currently building a microservices-based backend for a PetTech startup.<br>
-⚡️ Leveling up my Go skills at Wildberries Technoschool.<br>
+🚀 Backend Developer.<br>
 🛠️ Focused on Microservices and scalable systems.<br>
 
 
